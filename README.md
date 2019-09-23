@@ -20,4 +20,4 @@ THe data set is called Mall_Customers.csv given by the client having 200 records
  
  ## Result:
  
-The accuracy achieved with K-Mean clustering using elbow method to find number of cluster: %
+The are total of 5 clusters we are able to extract from the data set. The process based on the Elbow method and WCSS=Within cluster sum of square parameter to decide the number of clusters we can have.

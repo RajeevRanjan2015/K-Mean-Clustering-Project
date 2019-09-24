@@ -23,8 +23,8 @@ THe data set is called Mall_Customers.csv given by the client having 200 records
 The are total of 5 clusters we are able to extract from the data set.The clusters were namely Target, Standard, Careless, Sensible, and Careful.
 Target: The annual income and spending score are higher
 Standard: The annual income and spending score both are in mid range.
-Careless: 
-Careful: 
-Sensible:
+Careless: Annual income are less but the spends more. 
+Careful: Annual income on higher side but they spends less. 
+Sensible: Both annual income and spending score are on lower side means their income are less so they donot spends more.
 The process based on the Elbow method and WCSS=Within cluster sum of square parameter to decide the number of clusters we can have.
 

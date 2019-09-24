@@ -20,5 +20,11 @@ THe data set is called Mall_Customers.csv given by the client having 200 records
  
  ## Result:
  
-The are total of 5 clusters we are able to extract from the data set.The clusters were namely Target, Standard, Careless, Sensible, and  The process based on the Elbow method and WCSS=Within cluster sum of square parameter to decide the number of clusters we can have.
+The are total of 5 clusters we are able to extract from the data set.The clusters were namely Target, Standard, Careless, Sensible, and Careful.
+Target: The annual income and spending score are higher
+Standard: The annual income and spending score both are in mid range.
+Careless: 
+Careful: 
+Sensible:
+The process based on the Elbow method and WCSS=Within cluster sum of square parameter to decide the number of clusters we can have.
 

@@ -29,3 +29,4 @@ The are total of 5 clusters we are able to extract from the data set.The cluster
 
 The process based on the Elbow method and WCSS=Within cluster sum of square parameter to decide the number of clusters we can have.
 
+https://github.com/RajeevRanjan2015/K-Mean-Clustering-Project/blob/master/result.PNG
